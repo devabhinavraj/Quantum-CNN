@@ -94,4 +94,4 @@ Components include:
 # Installation
 
 Clone the repository:
-https://github.com/devabhinavraj/Hybrid-Quantum-CNN/blob/main/quantum_cnn.ipynb
+https://github.com/devabhinavraj/Quantum-CNN/blob/main/Breast-Cancer-QCNN.ipynb
